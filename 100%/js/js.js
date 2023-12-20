@@ -1,0 +1,1 @@
+alert('Hoy viernes 13 se celebra el dia del 100%. Dia en el que nico le cuesta un 20% más ');
